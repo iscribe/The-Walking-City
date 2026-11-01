@@ -86,13 +86,13 @@ The Homebrewery
 - ### [{{ Categories}}{{ 6}}](#p6)
   - #### [{{ Optional Rules}}{{ 6}}](#p6)
 - ### [{{ Prompts}}{{ 7}}](#p7)
-  - #### [{{ <3: The Slums - Where the desperate huddle in the shadows}}{{ 7}}](#p7)
-  - #### [{{ 3-4: The Ward - Order, Industry, and the sound of hammers}}{{ 7}}](#p7)
-  - #### [{{ 5-6: Crowded Commons - Chaos and Trade}}{{ 7}}](#p7)
-  - #### [{{ 7: Crossroads - The balance point where paths meet}}{{ 8}}](#p8)
-  - #### [{{ 8-9: Artisan - Quiet mastery and beautiful creations}}{{ 8}}](#p8)
-  - #### [{{ 10-11: Verdant - Open spaces where magic and life flourish}}{{ 8}}](#p8)
-  - #### [{{ 12+: Celestial - Pure utopian and otherworldly}}{{ 8}}](#p8)
+  - #### [{{ <3: The Sunless Slums - Where the desperate huddle in the shadows}}{{ 7}}](#p7)
+  - #### [{{ 3-4: The Iron Ward - Order, Industry, and the sound of hammers}}{{ 7}}](#p7)
+  - #### [{{ 5-6: The Crowded Commons - Chaos and Trade}}{{ 7}}](#p7)
+  - #### [{{ 7: The Crossroads - The balance point where paths meet}}{{ 8}}](#p8)
+  - #### [{{ 8-9: Artisans Row - Quiet mastery and beautiful creations}}{{ 8}}](#p8)
+  - #### [{{ 10-11: The Verdant Plaza - Open spaces where magic and life flourish}}{{ 8}}](#p8)
+  - #### [{{ 12+: The Celestial Grove - Pure utopian and otherworldly}}{{ 8}}](#p8)
 - ### [{{ Appendix One - Optional Rules}}{{ 9}}](#p9)
   - #### [{{ Category Optional Rules}}{{ 9}}](#p9)
     - [{{ 1. The “Soundscape”}}{{ 9}}](#p9)
@@ -318,7 +318,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 {{wide
 
-### <3: The Slums {{font-size:0.6em _Where the desperate huddle in the shadows_}} 
+### <3: The Sunless Slums {{font-size:0.6em _Where the desperate huddle in the shadows_}} 
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
@@ -338,7 +338,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 
 
-### 3-4: The Ward {{font-size:0.6em _Order, Industry, and the sound of hammers_ }}
+### 3-4: The Iron Ward {{font-size:0.6em _Order, Industry, and the sound of hammers_ }}
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
@@ -355,7 +355,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 | 12+ | The Gear | A circular motif or rotating part |
 }}
 
-### 5-6: Crowded Commons {{font-size:0.6em _Chaos and Trade_ }}
+### 5-6: The Crowded Commons {{font-size:0.6em _Chaos and Trade_ }}
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
@@ -379,7 +379,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 
 {{wide
-### 7: Crossroads {{font-size:0.6em _The balance point where paths meet_}}
+### 7: The Crossroads {{font-size:0.6em _The balance point where paths meet_}}
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
@@ -397,7 +397,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 }}
 
-### 8-9: Artisan {{font-size:0.6em _Quiet mastery and beautiful creations_}}
+### 8-9: Artisans Row {{font-size:0.6em _Quiet mastery and beautiful creations_}}
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
@@ -415,7 +415,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 }}
 
-### 10-11: Verdant {{font-size:0.6em _Open spaces where magic and life flourish_ }}
+### 10-11: The Verdant Plaza {{font-size:0.6em _Open spaces where magic and life flourish_ }}
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
@@ -433,7 +433,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 }}
 
-### 12+: Celestial {{font-size:0.6em _Pure utopian and otherworldly_}}
+### 12+: The Celestial Grove {{font-size:0.6em _Pure utopian and otherworldly_}}
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
