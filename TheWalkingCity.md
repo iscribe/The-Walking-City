@@ -106,6 +106,7 @@ The Homebrewery
   - #### [{{ Phonetic Clipping}}{{ 12}}](#p12)
   - #### [{{ Descriptive Hybrid}}{{ 12}}](#p12)
   - #### [{{ Vowel Shifting}}{{ 12}}](#p12)
+- ### [{{ Appendix Two - Example Spreads}}{{ 13}}](#p13)
 }}
 
 
@@ -146,7 +147,7 @@ Each double-page spread in your notebook becomes a district in your city.
 :
 The left hand page will be filled with simple sketches and mapping so describe the layout
 :
-The right hand page is your Gazetteer a description of the area and the people who live there 
+The right hand page is your Gazetteer a description of the area and the people who live there. See **Appendix Two** for full example spreads.
 
 
 \column
@@ -689,6 +690,107 @@ Examples:
 
 * Greenwich :fas_arrow_right_long: Grannoch, GrunWitch
 * London :fas_arrow_right_long: Lundan, Lundoon
+}}
+
+\page
+{{pageNumber,auto}}
+
+# Appendix Two - Example Spreads
+
+Here is what a finished double page spread can look like. Yours will differ: wonky hexes and messy handwriting are all part of the charm.
+
+{{wide
+## The Blank Spread
+```
++-----------------------------+-----------------------------+
+|        LEFT HAND PAGE       |       RIGHT HAND PAGE       |
++-----------------------------+-----------------------------+
+|  Marginalia (optional)      |                        001  |
+|  :......................:   | Category:                   |
+|  :       ________       :   | Name:                       |
+|  :      /        \      :   | Prompt:    (roll)           |
+|  :     /  ANCHOR  \     :   | Anchor:                     |
+|  :     \  sketch  /     :   | Secret:                     |
+|  :      \________/      :   | Feel:                       |
+|  :  doodles + secret    :   |                             |
+|  :......................:   | Extras: Resonance, Texture, |
+|                             | Triangle, Time, Strata      |
++-----------------------------+-----------------------------+
+```
+}}
+
+{{wide
+## Example One: The Quick Stop
+This is the spread from the Core Loop **Worked Example**. It uses nothing but the core rules, so it takes about five minutes.
+
+##### Left hand page
+* The hex in the middle of the page, with the **Anchor** sketched in the centre: a table with a tower of second-hand books.
+* Around it: the bakery front with an awning marked *Hendos*, a railing with a small red glove, a lamp post and a few stick figures.
+
+##### Right hand page
+```
+                              001
+Category: Crowded Commons
+The Book Stall at Hendos' Corner
+
+Prompt:  The Stall (5)
+Anchor:  Charity table of second-hand
+         books
+Secret:  A single red glove on the
+         railing, placed on purpose.
+         A safe door nearby?
+Feel:    Warm bread smell, shuffling
+         shoppers, a busker out of
+         sight
+```
+}}
+
+\page
+{{pageNumber,auto}}
+
+{{wide
+## Example Two: The Full Works
+A longer stop on a hilltop park. I am in *Nature* (+2). I roll an 8 for the category, which makes 10: **Verdant**. A second roll of 5 makes 7: **The Hallow**. I used five optional rules: Elevation, Soundscape, Textured Touch, Social Triangle and Marginalia.
+
+##### Left hand page
+* The hex in the middle, with a second solid hex drawn inside it. I climbed the hill, so this is a **High Hex**.
+* The **Anchor** in the centre: a bench ringed by old yew trees. The wind drops away here.
+* The **Secret** sits at the edge of the hex, as a thin line of smoke pointing off the page. It is far away, which is the *Rule of Sight* for a High Hex.
+* Marginalia around the border. Along the top and sides, the permanent things: a church spire, a row of houses and a few leaf icons. Along the bottom, the passing things: a small crow for the rooks overhead.
+
+##### Right hand page
+```
+                              014
+Category: Verdant  (HIGH HEX)
+Whitcul Hallow
+
+Prompt:  The Hallow (7)
+Anchor:  A bench ringed by old yews,
+         where the wind drops away
+Secret:  Smoke rising from deep in the
+         far woods. Only visible from
+         up here
+Feel:    Soft grass, traffic faded to
+         nothing, light through the
+         branches
+
+Resonance: Whispering. Secrets are
+           easy to find here
+Texture:   Rough (a lichen stone
+           wall): ancient, fortified
+
+Triangle (d6: 4, Kinship)
+- Local: Old Peg, feeds sparrows on
+  the bench. Quirk: names every bird
+- Ghost: The Yellow Cyclist, cuts
+  through on a commute. Quirk: never
+  stops pedalling, even to say hello
+- Outlier: Mr Pike, suit and
+  binoculars on his lunch break.
+  Quirk: keeps checking the far woods
+All three keep glancing at the smoke.
+```
+I clipped the park sign *Whitcombe Park* to *Whitcul* (see **Grimorium Nominum**).
 }}
 
 \page
