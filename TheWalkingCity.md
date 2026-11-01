@@ -511,7 +511,7 @@ When stopped try to identify three different "types" of people. If you don't see
 #### The Social Prompts
 | Role | What to Look For | RPG Element |
 |:-10%--|:---|:---|
-| ↑ The Anchor | The most "permanent" person (a shopkeeper, someone sitting in a porch, an obvious regular | **The Quest Giver:** They know the history of the hex and provide stable information |
+| ↑ The Local | The most "permanent" person (a shopkeeper, someone sitting in a porch, an obvious regular) | **The Quest Giver:** They know the history of the hex and provide stable information |
 | ↙ The Ghost | Someone passing through quickly (A jogger, a delivery driver, a commuter) | **The Messenger:** They connect this hex to others. They move between hexes and can carry rumors from far away districts |
 | ↘ The Outlier | Someone who looks slightly out of place or stands out (a tourist, someone in bright clothing, a street performer) | **The Wildcard:** They represent the "Conflict" or "Secret" of the hex. They are the hook for an adventure
 }}
@@ -520,7 +520,7 @@ When stopped try to identify three different "types" of people. If you don't see
 }}
 ```
 Hex 012: The Bloom Plaza
-- Anchor: Marta of the Mending (Based on the tailor shop lady). Quirk: Always has a needle in her lapel
+- Local: Marta of the Mending (Based on the tailor shop lady). Quirk: Always has a needle in her lapel
 - Ghost: The Grey Runner (Based upon a guy in a grey tracksuit). Quirk: Delivers messages between the High and Low Towns
 - Outlier: Silas the Bright (Based on a person in a neon jacket). Quirk: Claims to have seen monsters in the "Deep Hex" nearby
 ```
@@ -539,8 +539,8 @@ If you want to know why these people are in your city, you can roll a single d6 
 :
 | Roll | Dynamic | Narrative Hook |
 |:----:|:----|:----|
-| 1 | Suspicion | The Anchor and the Ghost are watching the Outlier closely |
-| 2 | Commerce | The Ghost is delivering something to the Anchor; Outlier is waiting |
+| 1 | Suspicion | The Local and the Ghost are watching the Outlier closely |
+| 2 | Commerce | The Ghost is delivering something to the Local; Outlier is waiting |
 | 3 | Ignorance | All three are in their own worlds; the district is fragmented |
 | 4 | Kinship | The three seem to share a secret or common goal |
 | 5 | Celebration | Something good has just happened; the mood is light |
