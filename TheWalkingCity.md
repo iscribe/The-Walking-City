@@ -1,23 +1,10 @@
 ```metadata
 title: Walking City
-description: ''
-tags: []
+description: 'A mindfulness solo worldbuilding RPG: build a fantasy city one real-world stop at a time.'
+tags: [solo, rpg, worldbuilding, mindfulness]
 systems: []
 renderer: V3
 theme: 5ePHB
-snippets:
-  - name: brew_snippets
-    subsnippets:
-      - name: example snippet
-        gen: >-
-
-          The text between `\snippet title` lines will become a snippet of name
-          `title` as this example provides.
-
-
-          This snippet is accessible in the brew tab, and will be inherited if
-          the brew is used as a theme.
-
 ```
 
 ```css
@@ -25,13 +12,6 @@ snippets:
 .page {
 	width  : 210mm;
 	height : 296.8mm;
-}
-
-/*=======---  Example CSS styling  ---=======*/
-/* Any CSS here will apply to your document! */
-
-.myExampleClass {
-	color: black;
 }
 
 ```
@@ -132,17 +112,19 @@ The Homebrewery
 
 
 \page
+{{pageNumber,auto}}
+
 # Welcome to The Walking City
 
 The Walking City is a mindfulness Solo RPG designed to allow you to create a bustling and fleshed out fantasy city, full of life, NPCs and secrets.
 ::::
 Once a City has been finished it is able to be used in your traditional Table Top RPG, as a location in any campaign you are running.
 :
-The core loop for this game involves you actually leaving the house. If you are on a walk, waiting for someone or going out for coffee. When you stop, for just 5-15 mins, you create an new area in your city 
+The core loop for this game involves you actually leaving the house. If you are on a walk, waiting for someone or going out for coffee. When you stop, for just 5-15 mins, you create a new area in your city.
 :
 ##### Equipment
 1. An A5 Notebook - This will be used to record your map sections and associated Gazetteer.
-2. 3d6 (Three six sided dice) - Because life is random
+2. A handful of six-sided dice (d6) - Because life is random. You need 3 for a normal stop (2d6 for rolls plus 1d6 for a Momentum die), and more for the Terminal Hex; roll them in batches if you are short
 3. A Pen or Pencil - Dependent on how confident you feel
 4. **Optional** a few coloured pens or pencils to add some flair.
 5. **Optional** a sheet of hex grid paper for a high level view of the city
@@ -169,10 +151,10 @@ The right hand page is your Gazetteer a description of the area and the people w
 
 \column
 ##### The Terminal Hex
-Before you start your new city we have to consider our end game. Roll 10d6 and write this number down on the first page, This is your first Terminal Hex. When you have created this many hexes in your city then you as the architect have a decision to make.
+Before you start your new city we have to consider our end game. Roll 10d6 and write this number down on the first page. This is your first Terminal Hex. When you have created this many hexes in your city then you as the architect have a decision to make.
 
 1. If your city has more stories to tell, and miles to cover, then the adventure doesn't need to be over. Roll 5d6, and add this total to your previous Terminal Hex. This number becomes the new Terminal Hex.
-2. If you feel the story is complete, you seal the notebook. Your next walk can start Hex 01 of a completely different settlement.
+2. If you feel the story is complete, you seal the notebook. Your next walk can start Hex 001 of a completely different settlement.
 
 ###### Terminal Hex Adventure
 
@@ -190,10 +172,10 @@ Each extension to the Terminal Hex adds the opportunity for a new and exciting a
 
 # The Core Loop
 
-The main core loop of The Walking City (TWC) should only take 5 mins every time you stop - no matter what you are doing. The most important thing is to get out the house, go for a walk or get some of those jobs you need to do done. 
+The main core loop of The Walking City (TWC) should only take 5-15 mins every time you stop - no matter what you are doing. The most important thing is to get out of the house, go for a walk or get some of those jobs you need to do done. 
 
 ::
-When you are out give yourself time to stop, breathe in the air, hear the sounds, see the world around you - It is in this moment that you can begin to create
+When you are out give yourself time to stop, breathe in the air, hear the sounds, see the world around you - It is in this moment that you can begin to create a new district.
 
 ### Setup 
 
@@ -203,18 +185,18 @@ Before we even begin think about how you got to where you are and what is here, 
 ##### ⚅ Momentum Die
 You earned your momentum die, now what can it be used for?
 :
-You can use this die to replace any one die roll in this session. For example: if you are rolling for a category and you roll a _one_ and a _two_, a **slum**, but you would much prefer something else then you can replace the _one_ with your momentum die, this time rolling a _five_ so it becomes a **crossroads**.
+You can use this die to replace any one die roll in this session. For example: if you are rolling for a category and you roll a _one_ and a _two_, a **slum**, but you would much prefer something else then you can replace the _one_ with your momentum die, this time rolling a _five_ so it becomes a **crossroads** (assuming a 0 modifier).
 }}
 :
 We lay out every district in our city on a double page spread, giving us plenty of space to work.
 :
 On the *left hand* page draw a hexagon, this can be freehand or as technical as you wish. To make things easy you can use the holes in the included playsheet to draw 6 dots, which when joined create a perfect hex, easy.
 :
-On the *Right Hand* page create our gazetteer, a collection of information about this district. Start by including a unique identifier in the top right corner to enable us to reference this district. For example if this was the first district in the city I would write 001 in the top right.
+On the *Right Hand* page create our gazetteer, a collection of information about this district. Start by including a unique identifier in the top right corner to enable us to reference this district. For example if this was the first district in the city I would write 001 in the top right (three digits, so you never run out).
 :
 {{note
 ##### ⬡ Hex Paper
-If using a sheet of hex graph paper then draw your first hex in the middle of the page, and write your unique identifier in the middle. This will become the eagles view of the city.
+If using a sheet of hex graph paper then draw your first hex in the middle of the page, and write your unique identifier in the middle. This will become the eagle's-eye view of the city.
 }}
 
 ### Location
@@ -286,7 +268,7 @@ Roll 2d6 and add the *Location Modifier*, this gives you the category for your c
 ::
 ### Optional Rules
 
-Once you have decided on your districts character you can choose to add extra flavour if you have the time or inclination. See **"Appendix One - Optional Rules"**.
+Once you have decided on your district's character you can choose to add extra flavour if you have the time or inclination. See **"Appendix One - Optional Rules"**.
 \column
 #### Location Modifier
 The Location modifier is used to skew the look and feel of your fantasy district dependent on the look and feel of the real world.
@@ -294,7 +276,7 @@ The Location modifier is used to skew the look and feel of your fantasy district
 ##### -2: Urban
 The area you are in is heavily built up with lots of man made construction. This will bleed into your world, leading a darker grittier feel.
 ##### 0: Mixed/Indoors
-Your real world location is a mix of environment types, some housed and some trees, maybe a park in the middle of a city. Also use this modifier if you are indoors and cannot really see the world around you.
+Your real world location is a mix of environment types, some houses and some trees, maybe a park in the middle of a city. Also use this modifier if you are indoors and cannot really see the world around you.
 ##### +2: Nature
 Vistas of green grass and trees lend your district a more celestial and good feel. Places are less crowded with more open spaces.
 
@@ -305,10 +287,10 @@ Vistas of green grass and trees lend your district a more celestial and good fee
 | <3 | The Slums | Malevolent/Urban | An area of rot and death, where the forgotten, or want to be forgotten, strive to live and the desperate huddle in shadows |
 | 3-4 | The Ward | Order/Industry | The sound of hammers and sawing. Busy industrious work keeping the city living |
 | 5-6 | Crowded Commons | Chaos/Interaction | Busy simple life full of bustling people, traders hawking their wares and maybe the odd pickpocket |
-| 7 | Crossroads | | A balanced place where roads meet, and maybe rivers are forded |
+| 7 | Crossroads | Balance/Transit | A balanced place where roads meet, and maybe rivers are forded |
 | 8-9 | Artisan | Craft/Quiet | The district has a quiet air of masters at work, punctuated by the shout of an apprentice being chastised |
 | 10-11 | Verdant | Growth/Healing | More open spaces, where both magic and life flourish. A small oasis in the busy city |
-| 12+ | Celestial | Serene/Magical | Pure, utopian and otherworldly. An area where one can comunicate with the gods, or maybe escape them|
+| 12+ | Celestial | Serene/Magical | Pure, utopian and otherworldly. An area where one can communicate with the gods, or maybe escape them|
 }}
 
 {{imageMaskEdge1,--offset:20%,--rotation:0
@@ -330,7 +312,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 \column
 **The Anchor:** Look around, find a physical object in the real world that represents your prompt. This is the heart of your hex.
 :
-**The Secret:** Identify a real world 'disruption' (something out of place) and record it as a hidden law hook.
+**The Secret:** Identify a real world 'disruption' (something out of place) and record it as a hidden lore hook.
 :::::
 
 
@@ -367,7 +349,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 | 6 | The Grate | A barrier, fence or metal flooring |
 | 7 | The Monolith | The largest, heaviest stone/concrete object nearby |
 | 8 | The Pillar | A vertical column or rigid post |
-| 9 | The Forge | Red colours or bright light sources
+| 9 | The Forge | Red colours or bright light sources |
 | 10 | The Lever | A mechanical arm or moving gate |
 | 11 | The Vault | A windowless, reinforced wall |
 | 12+ | The Gear | A circular motif or rotating part |
@@ -455,7 +437,7 @@ Roll 2d6 and add the *Location Modifier*, then see the table associated with the
 
 {{wide
 | Roll (2d6+mod) | Prompt  | Detail | 
-|:-15%--:|:---|:---|
+|:-15%--:|:-20%--|:---|
 | <4 | The Halo | A ring, circle or round object |
 | 4 | The Glow | Soft or golden light, or a sunbeam through a gap |
 | 5 | The Mist | Haze, steam, fog or low cloud |
@@ -503,7 +485,7 @@ After rolling for your category/theme for the district, close your eyes for 30 s
 {{wide
 ### 2. The "Textured Touch"
 }}
-Interact with the real world around you. Find one surface that you can safely touch (a stone wall, a leaf, a metalic railing, the bark of a tree).
+Interact with the real world around you. Find one surface that you can safely touch (a stone wall, a leaf, a metallic railing, the bark of a tree).
 :
 Describe the texture in one word (Rough, Cold, Slick, Gritty).
 :
@@ -537,14 +519,14 @@ When stopped try to identify three different "types" of people. If you don't see
 #### Examples
 }}
 ```
-Hex 12: The Bloom Plaza
+Hex 012: The Bloom Plaza
 - Anchor: Marta of the Mending (Based on the tailor shop lady). Quirk: Always has a needle in her lapel
 - Ghost: The Grey Runner (Based upon a guy in a grey tracksuit). Quirk: Delivers messages between the High and Low Towns
 - Outlier: Silas the Bright (Based on a person in a neon jacket). Quirk: Claims to have seen monsters in the "Deep Hex" nearby
 ```
 \column
 ```
-Hex NN: Name
+Hex NNN: Name
 - ↑: Name (Why). Quirk: .......
 - ↙: Name (Why). Quirk: .......
 - ↘: Name (Why). Quirk: .......
@@ -553,7 +535,7 @@ Hex NN: Name
 :
 #### Triangle Interactions
 :
-If you want to know why these people are in your city, you can roll a single d6 for the whole triangle and see what the "vibe" of their relationship is
+If you want to know why these people are in your city, you can roll a single d6 for the whole triangle and see what the "vibe" of their relationship is.
 :
 | Roll | Dynamic | Narrative Hook |
 |:----:|:----|:----|
@@ -576,7 +558,7 @@ April 2026: The 'Copper Scale Exchange' has been boarded up.
 
 I saw a 'For Sale' sign. 
 
-The Guild was exiled, the building is now a ghost-haunted  shell 
+The Guild was exiled, the building is now a ghost-haunted shell 
 ```
 :
 Try not to erase anything from your hex, just modify it or add more to imply the changes over time
@@ -599,9 +581,9 @@ Try not to erase anything from your hex, just modify it or add more to imply the
 Cities are not flat, ever, so use the real world to influence your fantasy city. Split it up into Spires, Streets and Sublevels.
 
 #### Spires
-If you walk up a significant hill, or climb more than 3 flights of stairs the mark this hex as a 'High Hex'. Draw another solid lines hex inside the one marking this district, representing the contours of the hill.
+If you walk up a significant hill, or climb more than 3 flights of stairs then mark this hex as a 'High Hex'. Draw another solid-line hex inside the one marking this district, representing the contours of the hill.
 #### Sublevels
-If you go into a basement, a subway or deep valley/tunnel, then this is a 'Deep Hex'. Draw a dashed hex inside the border hex, representing the slipping downwards.
+If you go into a basement, a subway or deep valley/tunnel, then this is a 'Deep Hex'. Draw a dashed hex inside the border hex, representing the sinking downwards.
 \column
 Remember: Usually 'High Hexes' are for the elite, mages and the watchers. 'Deep Hexes' are for criminals, monsters and the forgotten.
 :
@@ -628,7 +610,7 @@ When you use this city as a game setting, these borders will act as atmospheric 
 
 
 {{quote
-The path is lined with old, leaning row houses and you pass at least three noisy taverns before the smell of the market hits you"
+"The path is lined with old, leaning row houses and you pass at least three noisy taverns before the smell of the market hits you."
 }}
 \column
 * **A Spire** for churches and religious architecture
@@ -636,7 +618,7 @@ The path is lined with old, leaning row houses and you pass at least three noisy
 * **A Flagon** for pubs, bars, or taverns
 * **A Signpost** for hotels, inns, or waypoints
 * **A Leaf** for standalone trees or small gardens
-  * Add whatever you fancy, It's your city
+  * Add whatever you fancy, it's your city
 :
 ###### Remember:
 * On your first visit add the _permanent_ things you can see in the distance (spires, hills, houses etc) along the top and down the sides of the frame. This represents the static horizon of the district.
@@ -725,27 +707,3 @@ Examples:
 
 
 ![background image](https://raw.githubusercontent.com/iscribe/The-Walking-City/refs/heads/main/images/CoverArt.jpg){position:absolute,bottom:0,right:0,height:100%}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
