@@ -696,8 +696,10 @@ Examples:
 {{pageNumber,auto}}
 
 # Appendix Two - Example Spreads
-
+:
+{{wide
 Here is what a finished double page spread can look like. Yours will differ: wonky hexes and messy handwriting are all part of the charm.
+}}
 
 {{wide
 ## The Blank Spread
