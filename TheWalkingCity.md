@@ -220,7 +220,8 @@ If using a sheet of hex graph paper then draw your first hex in the middle of th
 ### Location
 
 Now just sit and look around, and decide on how the world around you looks - This will give you a modifier for your district category roll.
-:
+
+\column
 ##### Location Modifier
 | Modifier | Feel | Description |
 |:------------------:|:-----|:-----------------|
@@ -262,7 +263,7 @@ Now roll 2d6 again, add your *Location Modifier*, and read the result on the tab
 3. **The Name:** name the district, borrowing from the **Grimorium Nominum** if you like.
 4. **The Feel:** add a line or two on how the district looks and sounds. Guess anything you can't see.
 
-That is all. Your five minutes are up, so pack away and carry on with your day.
+That is all. Pack away and carry on with your day.
 
 {{note
 ##### Worked Example
@@ -272,7 +273,7 @@ The Anchor is a charity table of second-hand books. The Secret is a single red g
 ```
 001  Crowded Commons
 The Book Stall at Hendos' Corner
-Secret: the red glove marks a safe door
+Secret: red glove marks a safe door
 ```
 }}
 
