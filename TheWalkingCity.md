@@ -380,16 +380,16 @@ Role 2d6 and see the table associated with the category. This will give you a pr
 {{wide
 | Role (2d6+mod) | Prompt  | Detail | 
 |:-15%--:|:-20%--|:---|
-| >4 |  |  |
-| 4 |  |  |
-| 5 |  |  |
-| 6 |  |  |
-| 7 |  |  |
-| 8 |  |  |
-| 9 |  |  |
-| 10 |  |  |
-| 11 |  |  |
-| 12+ |  |  |
+| >4 | The Fork | A path or road splitting in two |
+| 4 | The Junction | Where two or more paths cross |
+| 5 | The Signpost | A sign, arrow or marker pointing the way |
+| 6 | The Ford | A crossing over a gap: a bridge, stepping stones or a dip |
+| 7 | The Balance | A matching pair, such as twin lamps, benches or doors |
+| 8 | The Queue | People waiting to cross, board or be served |
+| 9 | The Toll | A gate, barrier or ticket point controlling passage |
+| 10 | The Waystation | A shelter, bus stop or somewhere to rest |
+| 11 | The Lantern | A lamp or light marking the way |
+| 12+ | The Parting | Two people greeting, or saying goodbye |
 
 }}
 
@@ -434,16 +434,16 @@ Role 2d6 and see the table associated with the category. This will give you a pr
 {{wide
 | Role (2d6+mod) | Prompt  | Detail | 
 |:-15%--:|:---|:---|
-| >4 |  |  |
-| 4 |  |  |
-| 5 |  |  |
-| 6 |  |  |
-| 7 |  |  |
-| 8 |  |  |
-| 9 |  |  |
-| 10 |  |  |
-| 11 |  |  |
-| 12+ |  |  |
+| >4 | The Halo | A ring, circle or round object |
+| 4 | The Glow | Soft or golden light, or a sunbeam through a gap |
+| 5 | The Mist | Haze, steam, fog or low cloud |
+| 6 | The Echo | A sound that carries, repeats or lingers |
+| 7 | The Altar | A flat or raised surface, such as a plinth, memorial or bench |
+| 8 | The Mirror | Still water, glass or a polished surface reflecting the sky |
+| 9 | The Ascent | Steps, a slope or anything that draws the eye upward |
+| 10 | The Offering | Flowers, ribbons, coins or items left behind |
+| 11 | The Threshold | An arch, doorway or gap framing something beyond |
+| 12+ | The Heavens | The sky itself: an odd cloud, a bird, a trail or a burst of light |
 
 }}
 
