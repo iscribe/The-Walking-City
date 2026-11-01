@@ -50,7 +50,7 @@ ___
   A Solo City Building RPG, Based in the Real World
 }}
 
-![background image](https://i.imgur.com/GcOMKn6.jpeg){position:absolute,bottom:0,left:0,height:100%}
+![background image](https://raw.githubusercontent.com/iscribe/The-Walking-City/refs/heads/main/images/CoverArt.jpg){position:absolute,bottom:0,left:0,height:100%}
 
 
 
@@ -702,7 +702,7 @@ Examples:
 
 
 
-![background image](https://i.imgur.com/GcOMKn6.jpeg){position:absolute,bottom:0,right:0,height:100%}
+![background image](https://raw.githubusercontent.com/iscribe/The-Walking-City/refs/heads/main/images/CoverArt.jpg){position:absolute,bottom:0,right:0,height:100%}
 
 
 
