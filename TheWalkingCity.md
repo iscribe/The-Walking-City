@@ -255,6 +255,27 @@ at the top of the Gazetteer page.
 
 ### The Prompt
 
+Now roll 2d6 again, add your *Location Modifier*, and read the result on the table for your category (see **Prompts**). This gives you a prompt, something to look for in the real world around you.
+:
+1. **The Anchor:** find something nearby that matches your prompt and sketch it in the middle of your hex. This is the heart of the district.
+2. **The Secret:** spot something out of place, like a lone glove on a railing or a door left ajar. Note it on your Gazetteer as a hidden hook.
+3. **The Name:** name the district, borrowing from the **Grimorium Nominum** if you like.
+4. **The Feel:** add a line or two on how the district looks and sounds. Guess anything you can't see.
+
+That is all. Your five minutes are up, so pack away and carry on with your day.
+
+{{note
+##### Worked Example
+Outside a bakery on a busy high street, I decide it is *Urban* (-2). I roll a 7 for the category, which makes 5: **Crowded Commons**. A second roll of 7 makes 5 again: **The Stall**.
+:
+The Anchor is a charity table of second-hand books. The Secret is a single red glove on the railing, placed on purpose. I clip *Henderson's Bakery* to *Hendos* and write:
+```
+001  Crowded Commons
+The Book Stall at Hendos' Corner
+Secret: the red glove marks a safe door
+```
+}}
+
 \page
 {{pageNumber,auto}}
 
