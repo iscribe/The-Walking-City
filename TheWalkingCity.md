@@ -282,7 +282,7 @@ Secret: red glove marks a safe door
 
 # Categories
 
-Roll 2d6 and add the *Location Modifier*, this gives you the category for your current district. This result is then used to roll againt the prompts table. On your gazetteer page fill in a ```Category: [category]``` entry.
+Roll 2d6 and add the *Location Modifier*, this gives you the category for your current district. This result is then used to roll against the prompts table. On your gazetteer page fill in a ```Category: [category]``` entry.
 ::
 ### Optional Rules
 
@@ -326,7 +326,7 @@ Vistas of green grass and trees lend your district a more celestial and good fee
 
 Once you have the _feel_ of the district it's time to add some uniqueness based upon the world around you.
 :
-Roll 2d6 and see the table associated with the category. This will give you a prompt that will encourage you to look for specifics in the real world and translate them to something in your fantasy world.
+Roll 2d6 and add the *Location Modifier*, then see the table associated with the category. This will give you a prompt that will encourage you to look for specifics in the real world and translate them to something in your fantasy world.
 \column
 **The Anchor:** Look around, find a physical object in the real world that represents your prompt. This is the heart of your hex.
 :
